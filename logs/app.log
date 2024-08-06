@@ -1,5 +1,24 @@
-2024-07-24T11:44:36.296Z | INFO | This is an info message
+1722938108128 | INFO | This is an info message
 
-2024-07-24T11:44:36.301Z | WARNING | This is a warning message
+1722938108128 | WARNING | This is a warning message
 
-2024-07-24T11:44:36.301Z | ERROR | This is an error message
+1722938108128 | ERROR | This is an error message
+
+1722938117654 | INFO | This is an info message
+
+1722938117656 | WARNING | This is a warning message
+
+1722938117656 | ERROR | This is an error message
+
+2024-08-06T09:58:52.684Z | INFO | This is an info message
+
+1722938332692 | WARNING | This is a warning message
+
+1722938332692 | ERROR | This is an error message
+
+2024-08-06T09:59:37.399Z | INFO | This is an info message
+
+2024-08-06T09:59:37.406Z | WARNING | This is a warning message
+
+2024-08-06T09:59:37.406Z | ERROR | This is an error message
+
